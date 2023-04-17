@@ -1,6 +1,8 @@
 # keygenlib
 A Python library to generate product keys.
 
+**FOR EDUCATIONAL USE ONLY!** I do not condone piracy.
+
 ## Using keygenlib
 Put the library folder into the root folder of your project.
 Open the file you want to use keygenlib in, then import the library using:
